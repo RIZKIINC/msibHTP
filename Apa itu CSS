@@ -1,3 +1,7 @@
 CSS adalah bahasa Cascading Style Sheet dan biasanya digunakan
 untuk mengatur tampilan elemen yang tertulis dalam bahasa markup, seperti HTML.
 CSS berfungsi untuk memisahkan konten dari tampilan visualnya di situs.
+
+CSS dibuat dan dikembangkan oleh W3C (World Wide Web Consortium)
+pada tahun 1996 untuk alasan yang sederhana. Dulu HTML tidak dilengkapi
+dengan tags yang berfungsi untuk memformat halaman. Anda hanya perlu menulis markup untuk situs.
